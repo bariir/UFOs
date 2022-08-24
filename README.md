@@ -10,10 +10,10 @@ Dana’s goal is to have a dynamic website where any UFO enthusiasts can add mor
   ![ UFO Sightings User Interface](/Resources/UFO_Sightings_UI.png)<br>
 
 - Second, they can use Date filter to limit their search and find specific UFO sightings.<br>
-  ![ UFO Sightings User Interface Filter Search](/Resources/ UFO_Sightings_FilterSearch.png)<br>
+  ![ UFO Sightings User Interface Filter Search](/Resources/UFO_Sightings_FilterSearch.png)<br>
 
 - Third, they can use multiple search filters to customize their search of UFO sightings.<br>
-   ![ UFO Sightings User Interface Multiple Filter Search](/Resources/ UFO_Sightings_FilterMultipleSearch.png)<br>
+   ![ UFO Sightings User Interface Multiple Filter Search](/Resources/UFO_Sightings_FilterMultipleSearch.png)<br>
 
 ## Tools and Software: 
 - JavaScript, HTML, CSS, Bootstrap, Visual Studio Code 1.68.1, Git Bash to commit changes into GitHub Repository
@@ -28,9 +28,9 @@ The analysis of the UFO Sightings results shows that:
 
 
 ## Links to images:
-UFO Sightings User Interface:![ UFO_Sightings_UI.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/ UFO_Sightings_UI.png?raw=true)
+UFO Sightings User Interface:![UFO_Sightings_UI.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/ UFO_Sightings_UI.png?raw=true)
 
-UFO Sightings User Interface Filter Search:![ UFO_Sightings_FilterSearch.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/ UFO_Sightings_FilterSearch.png?raw=true)
+UFO Sightings User Interface Filter Search:![UFO_Sightings_FilterSearch.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/ UFO_Sightings_FilterSearch.png?raw=true)
 
-UFO Sightings User Interface Multiple Filter Search:![ UFO_Sightings_FilterMultipleSearch.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/ UFO_Sightings_FilterMultipleSearch.png?raw=true)
+UFO Sightings User Interface Multiple Filter Search:![UFO_Sightings_FilterMultipleSearch.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/ UFO_Sightings_FilterMultipleSearch.png?raw=true)
 
