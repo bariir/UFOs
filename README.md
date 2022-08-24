@@ -28,9 +28,9 @@ The analysis of the UFO Sightings results shows that:
 
 
 ## Links to images:
-UFO Sightings User Interface:![UFO_Sightings_UI.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/ UFO_Sightings_UI.png?raw=true)
+UFO Sightings User Interface:![UFO_Sightings_UI.png](https://github.com/bariir/UFOs/tree/main/Resources/UFO_Sightings_UI.png?raw=true)
 
-UFO Sightings User Interface Filter Search:![UFO_Sightings_FilterSearch.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/ UFO_Sightings_FilterSearch.png?raw=true)
+UFO Sightings User Interface Filter Search:![UFO_Sightings_FilterSearch.png](https://github.com/bariir/UFOs/tree/main/Resources/UFO_Sightings_FilterSearch.png?raw=true)
 
-UFO Sightings User Interface Multiple Filter Search:![UFO_Sightings_FilterMultipleSearch.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/ UFO_Sightings_FilterMultipleSearch.png?raw=true)
+UFO Sightings User Interface Multiple Filter Search:![UFO_Sightings_FilterMultipleSearch.png](https://github.com/bariir/UFOs/tree/main/Resources/UFO_Sightings_FilterMultipleSearch.png?raw=true)
 
